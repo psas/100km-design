@@ -1,5 +1,7 @@
 Liquid propulsion development resources
 ============
+Cache of NASA 8000-series Special Publication mongoraphs:
+https://drive.google.com/folderview?id=0B5irBl_D7OtgMHlDUzJMNnBrSWM&usp=sharing
 
 Liquid Propulsion workshop plan google doc:
 https://drive.google.com/open?id=1oUOyCGxsRqcqIcv370fpuk_GQk3_xKbS-0JtW5bWTkA&authuser=0
